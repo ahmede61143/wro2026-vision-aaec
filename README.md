@@ -72,8 +72,8 @@ wro2026-vision-aaec/
 
 ## 📜 License & Copyright
 
-Copyright © 2026 **Team Vision Robotics**. All rights reserved.
+Copyright © 2026 **Team Vision Robotics**. 
 
-This project is licensed for **personal and educational use only**. You may view, study, and run this code for non-commercial purposes provided that explicit credit is given to **Team Vision Robotics**. Commercial use, redistribution for profit, or claiming credit for this work is strictly prohibited. See the [LICENSE]
-(LICENSE) file for full details.
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license. You may share and adapt this work for non-commercial purposes only, provided you give appropriate credit to **Team Vision Robotics**. See the [LICENSE](LICENSE) file for full details.
+
 
