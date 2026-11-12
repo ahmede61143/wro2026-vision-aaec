@@ -1,6 +1,7 @@
 # AAEC System (Autonomous Archaeological Extraction and Conservation)
 **Team Vision Robotics — WRO 2026 Future Innovators**
 
+This README document was written with the use of Gemini AI and is based on the project report
 ---
 
 ## 📖 Project Overview
@@ -74,7 +75,5 @@ wro2026-vision-aaec/
 Copyright © 2026 **Team Vision Robotics**. All rights reserved.
 
 This project is licensed for **personal and educational use only**. You may view, study, and run this code for non-commercial purposes provided that explicit credit is given to **Team Vision Robotics**. Commercial use, redistribution for profit, or claiming credit for this work is strictly prohibited. See the [LICENSE]
-
-This README document was written with the use of Gemini AI and was based on the project report
 (LICENSE) file for full details.
 
