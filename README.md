@@ -10,7 +10,7 @@ Artifacts are links to the past, giving us valuable insight into how our ancesto
 
 Today, traditional artifact extraction is difficult, time-consuming, and often results in further fragmentation of fragile objects, as well as modern DNA and skin particle contamination. With the **AAEC (Autonomous Archaeological Extraction and Conservation) System**, we aim to accelerate and improve the reliability of archaeological excavation processes while keeping artifacts and researchers safe.
 
-📄 **Full Documentation:** Read our complete engineering journey, research, and testing results in our [WRO Project Report](docs/project-report.pdf).
+📄 **Full Documentation:** Read our complete engineering journey, research, and testing results in our WRO Project report
 
 ---
 
